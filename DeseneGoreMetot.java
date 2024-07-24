@@ -1,8 +1,7 @@
 import java.util.Scanner;
 
 /*
- Girilen sayı 0 veya negatif olduğu yere kadar girilen sayıdan 5 rakamını çıkarın. Her çıkarma işlemi sırasında ekrana son değeri yazdırın.
- Sayı negatif veya 0 olduktan sonra tekrar 5 ekleyin. Yine her ekleme işleminde sayının son değerini ekrana yazdırın.
+ Girilen sayıdan, 0'a eşit veya küçük oluncaya kadar 5 çıkarıp daha sonra girilen sayıya ulaşana kadar 5 ekleyen program. Her aşamanın sonucu ekrana yazdırılır.
 */
 
 public class DeseneGoreMetot {
